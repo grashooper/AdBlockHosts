@@ -1,3 +1,3 @@
 AdAway
 
-[HostsSources]
+[HostsSources](Other Hosts Sources)
