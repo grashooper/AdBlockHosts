@@ -1,28 +1,25 @@
-#summary Whitelist hostnames for specific Apps
-
-= Problematic Apps =
-
-Some applications need to connect to specific hostnames, that normally provide ads. To get these apps working some hostnames in !AdAway need to be added to Whitelist (Your Lists -> Whitelist). After adding hostnames to your Whitelist apply !AdAway again!
+Some applications need to connect to specific hostnames, that normally provide ads. To get these apps working some hostnames in AdAway need to be added to Whitelist (Your Lists -> Whitelist). After adding hostnames to your Whitelist apply AdAway again!
 
 
 ## My Verizon / NFL Mobile application
 
-  * ehg-verizon.hitbox.com
-  * oascentral.verizononline.com
+  * ``ehg-verizon.hitbox.com``
+  * ``oascentral.verizononline.com``
+
 ## Wordpress Stats
 
-  * stats.wordpress.com
+  * ``stats.wordpress.com``
 
 ## Words with friends
 
-  * androidsdk.ads
-  * mydas.mobi
+  * ``androidsdk.ads``
+  * ``mydas.mobi``
 
 ## Medscape
 
-  * *.medscape.com
+  * ``*.medscape.com``
 
 ## nbcnews.com
 
-  * *msnbc*
-  * *nbcnews*
+  * ``*msnbc*``
+  * ``*nbcnews*``
