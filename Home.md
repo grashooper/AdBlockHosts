@@ -11,7 +11,7 @@
 
 ## Facts
 
-Some facts I found out about Androids hosts file, thought they might be interesting...
+Some facts I found out about Androids hosts file…
 
   * Hosts file gets recognized immediately by the operating system, but Java has its own DNS cache: http://stackoverflow.com/questions/4175066/android-hosts-file-usage , so we need to restart Android
 
