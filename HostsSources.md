@@ -1,8 +1,6 @@
-#summary Where to find hosts files
+*If you want to use redirection rules from these Hosts Sources you have to explicitly allow redirection rules in the preferences of AdAway as of version 1.24!*
 
-*If you want to use redirection rules from these Hosts Sources you have to explicitly allow redirection rules in the preferences of !AdAway as of version 1.24!*
-
-=Hosts file sources=
+## Hosts file sources
 
 | URL        | SSL           | Description  |  License | Default in AdAway |
 | ------------- |:-------------:| -----:| ------------- |:-------------:| -----:|
@@ -21,14 +19,15 @@
 | https://jansal.googlecode.com/svn/trunk/adblock/hosts | Y | another blocklist | Unknown | N |
 | https://sites.google.com/site/logroid/files/hosts.txt | Y | Japanese blocklist | Unknown | N |
 
-=Redirection lists=
+## Redirection lists
+
 | URL           | SSL           | Description  |  License | Default in AdAway |
 | ------------- |:-------------:| -----:| ------------- |:-------------:| -----:|
 | https://smarthosts.googlecode.com/svn/trunk/mobile_devices/hosts | Y | Chinese hosts file to workaround blocked domains, Contains many redirection rules, not a blocklist | Unknown | N |
 | https://veryhost.googlecode.com/files/android.txt | Y | Chinese hosts file to workaround blocked domains, Contains many redirection rules, not a blocklist | Unknown | N |
 | https://hostsx.googlecode.com/svn/trunk/hosts | Y | Chinese hosts file to workaround blocked domains, Contains many redirection rules, also a blocklist | Unknown | N |
 
-=Hosts file generator=
+## Hosts file generator
 
 | URL        | SSL           | Description  |  License |
 | ------------- |:-------------:| -----:| ------------- |:-------------:|
