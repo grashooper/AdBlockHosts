@@ -1,8 +1,8 @@
 # AdAway
 
 ## User information
-[[Other Hosts Sources|HostsSources]] 
-[[How to block new ads|BlockNewAds]] 
+[[Other Hosts Sources|HostsSources]]  
+[[How to block new ads|BlockNewAds]]  
 [[List of problematic applications|ProblematicApps]]
 
 ## Advanced Information
