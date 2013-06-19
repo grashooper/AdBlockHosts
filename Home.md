@@ -1,1 +1,3 @@
-Welcome to the ad-away wiki!
+AdAway
+
+[HostsSources]
