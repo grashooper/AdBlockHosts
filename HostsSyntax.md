@@ -6,7 +6,7 @@ A line contains the IP address and the corresponding hostname. Lines starting wi
 
   * AdAway will use only the hostnames having a IP address 127.0.0.1 or 0.0.0.0 for blocking and all other as redirection rules
 
-  * The Parser in !AdAway will check that every line contains a real hostname, if not it will ignore that line
+  * The Parser in AdAway will check that every line contains a real hostname, if not it will ignore that line
 
   * AdAway will merge all given hosts files into one file, duplicates will be ignored
 
