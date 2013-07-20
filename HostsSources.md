@@ -5,7 +5,7 @@
 | http://winhelp2002.mvps.org/hosts.txt | N | MVPS HOSTS File | Creative Commons Attribution-NonCommercial-ShareAlike | Y |
 | http://hosts-file.net/ad_servers.asp | N | hpHosts | Allowed AdAway project to use it as default | Y |
 | http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext | Y (with error) | Yoyos Hosts file | Unknown | Y |
-| http://adaway.sufficientlysecure.org/hosts.txt | Y (own cert) | Special hosts file for !AdAway containing mobile ad provider | Unknown | Y |
+| http://adaway.sufficientlysecure.org/hosts.txt | Y (own cert) | Special hosts file for AdAway containing mobile ad provider | Unknown | Y |
 | http://www.ismeh.com/HOSTS | N | Old AdAway hosts file used in version < 2.3. Now hosted on adaway.sufficientlysecure.org | Unknown | N |
 | http://sysctl.org/cameleon/hosts | N | Some false positives (audiogalaxy) | Unknown | N |
 | http://rlwpx.free.fr/WPFF/hosts.htm | N | Different available hosts files. Available as zip or 7z | Unknown | N |
