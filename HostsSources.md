@@ -16,6 +16,14 @@
 | https://jansal.googlecode.com/svn/trunk/adblock/hosts | Y | another blocklist | Unknown | N |
 | https://sites.google.com/site/logroid/files/hosts.txt | Y | Japanese blocklist | Unknown | N |
 
+## What are the criteria to make a hosts source default in AdAway?
+
+* They should only block Advertisments or Analytic Providers (for example http://sysctl.org/cameleon/hosts also blocks "shock sites", thus it is not included in AdAway)
+* Hosts sources are potential security issues. The corresponding website of the hosts source should look "legit"
+* The hosts sources have to be available directly as plain text. AdAway can not use zipped sources
+* Malware blocking hosts sources are not included, because they would add too many entries
+* Default hosts sources should not include redirection entries
+
 ## Redirection lists
 
 **If you want to use redirection rules from these Hosts Sources you have to explicitly allow redirection rules in the preferences of AdAway!**
