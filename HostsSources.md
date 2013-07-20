@@ -10,8 +10,7 @@
 | http://rlwpx.free.fr/WPFF/hosts.htm | N | Different available hosts files. Available as zip or 7z | Unknown | N |
 | http://someonewhocares.org/hosts/hosts | Y (own cert) | Includes not only ad servers | Include URL | N |
 | http://www.malwaredomainlist.com/hostslist/hosts.txt | ? | Malware list | Unknown | N |
-| http://securemecca.com/Downloads/hosts.txt | ? | | Unknown | N |
-| http://www.hostsfile.org/Downloads/hosts.txt | ? | | Unknown | N |
+| http://www.hostsfile.org/Downloads/hosts.txt or http://securemecca.com/Downloads/hosts.txt | ? | | Unknown | N |
 | http://adblock.gjtech.net/?format=hostfile | ? |  | Unknown | N |
 | https://jansal.googlecode.com/svn/trunk/adblock/hosts | Y | another blocklist | Unknown | N |
 | https://sites.google.com/site/logroid/files/hosts.txt?attredirects=0 | Y | Japanese blocklist | Unknown | N |
