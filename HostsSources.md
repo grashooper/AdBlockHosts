@@ -15,7 +15,6 @@
 | http://adblock.gjtech.net/?format=hostfile | ? |  | Unknown | N |
 | https://jansal.googlecode.com/svn/trunk/adblock/hosts | Y | another blocklist | Unknown | N |
 | https://sites.google.com/site/logroid/files/hosts.txt | Y | Japanese blocklist | Unknown | N |
-| http://adblock.gjtech.net/?format=hostfile | N |  | Unknown | N |
 
 ## Redirection lists
 
