@@ -12,7 +12,7 @@
 | http://www.malwaredomainlist.com/hostslist/hosts.txt | ? | Malware list | Unknown | N |
 | http://www.hostsfile.org/Downloads/hosts.txt or http://securemecca.com/Downloads/hosts.txt | ? | | Unknown | N |
 | http://adblock.gjtech.net/?format=hostfile | ? |  | Unknown | N |
-| https://jansal.googlecode.com/svn/trunk/adblock/hosts | Y | another blocklist | Unknown | N |
+| https://jansal.googlecode.com/svn/trunk/adblock/hosts | Y | | Unknown | N |
 | https://sites.google.com/site/logroid/files/hosts.txt?attredirects=0 | Y | Japanese blocklist | Unknown | N |
 
 ## What are the criteria to make a hosts source default in AdAway?
