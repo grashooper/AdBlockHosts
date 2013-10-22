@@ -14,7 +14,7 @@
 | http://adblock.gjtech.net/?format=hostfile | ? |  | Unknown | N |
 | https://jansal.googlecode.com/svn/trunk/adblock/hosts | Y | | Unknown | N |
 | https://sites.google.com/site/logroid/files/hosts.txt?attredirects=0 | Y | Japanese blocklist | Unknown | N |
-| http://optimate.dl.sourceforge.net/project/adzhosts/HOSTS.txt | N |  | Unknown | N |
+| http://optimate.dl.sourceforge.net/project/adzhosts/HOSTS.txt | N | http://sourceforge.net/projects/adzhosts/ | Unknown | N |
 
 ## What are the criteria to make a hosts source default in AdAway?
 
