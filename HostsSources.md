@@ -2,7 +2,7 @@
 
 | URL     | SSL     | Description  | License | Default in AdAway |
 | ------- | ------- | ------------ | ------- | ----------------- |
-| http://adaway.sufficientlysecure.org/hosts.txt | Y (own cert) | Special hosts file for AdAway containing mobile ad provider | CC Attribution | Y |
+| http://adaway.org/hosts.txt | Y (own cert) | Special hosts file for AdAway containing mobile ad provider | CC Attribution | Y |
 | http://winhelp2002.mvps.org/hosts.txt | N | MVPS HOSTS File | CC Attribution-NonCommercial-ShareAlike | Y |
 | http://hosts-file.net/ad_servers.asp | N | hpHosts | Allowed AdAway project to use it as default | Y |
 | http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext | Y (with error) | Yoyos Hosts file | Unknown | Y |
