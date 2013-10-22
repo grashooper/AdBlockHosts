@@ -24,6 +24,8 @@
 * Malware blocking hosts sources are not included, because they would add too many entries
 * Default hosts sources should not include redirection entries
 
+If your hosts source complies with these requirements, open a [new Issue](https://github.com/dschuermann/ad-away/issues/new) and ask for inclusion!
+
 ## Redirection lists
 
 **If you want to use redirection rules from these Hosts Sources you have to explicitly allow redirection rules in the preferences of AdAway!**
