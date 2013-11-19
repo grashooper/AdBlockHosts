@@ -2,7 +2,7 @@
 
 | URL     | SSL     | Description  | License | Default in AdAway |
 | ------- | ------- | ------------ | ------- | ----------------- |
-| http://adaway.org/hosts.txt | Y (own cert) | Special hosts file for AdAway containing mobile ad provider | CC Attribution | Y |
+| http://adaway.org/hosts.txt | Y (own cert) | Special hosts file for AdAway containing mobile ad provider | CC Attribution 3.0 | Y |
 | http://winhelp2002.mvps.org/hosts.txt | N | MVPS HOSTS File | CC Attribution-NonCommercial-ShareAlike | Y |
 | http://hosts-file.net/ad_servers.asp | N | hpHosts | Allowed AdAway project to use it as default | Y |
 | http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext | Y (with error) | Yoyos Hosts file | Unknown | Y |
@@ -11,7 +11,7 @@
 | http://someonewhocares.org/hosts/hosts | Y (own cert) | Includes not only ad servers | Include URL | N |
 | http://www.malwaredomainlist.com/hostslist/hosts.txt | ? | Malware list | Unknown | N |
 | http://www.hostsfile.org/Downloads/hosts.txt or http://securemecca.com/Downloads/hosts.txt | ? | | Unknown | N |
-| http://adblock.gjtech.net/?format=unix-hosts | N | Common US ad servers and farms | http://creativecommons.org/licenses/by/3.0/ | N |
+| http://adblock.gjtech.net/?format=unix-hosts | N | Common US ad servers and farms | CC Attribution 3.0 | N |
 | https://jansal.googlecode.com/svn/trunk/adblock/hosts | Y | | Unknown | N |
 | https://sites.google.com/site/logroid/files/hosts.txt?attredirects=0 | Y | Japanese blocklist | Unknown | N |
 | http://optimate.dl.sourceforge.net/project/adzhosts/HOSTS.txt | N | http://sourceforge.net/projects/adzhosts/ | Unknown | N |
