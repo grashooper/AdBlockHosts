@@ -40,3 +40,4 @@ If your hosts source complies with these requirements, open a [new Issue](https:
 | URL     | SSL     | Description  | License |
 | ------- | ------- | ------------ | ------- |
 | https://hostsaway.appspot.com/ | Y | Generate your own hosts source | CC0 |
+| http://unblocksit.es/ | Y | Choose specific sites to unblock |  |
