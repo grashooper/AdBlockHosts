@@ -36,7 +36,9 @@ The following host sources are default in AdAway and thus supported by the autho
 
 If your hosts source complies with these requirements, open a [new Issue](https://github.com/dschuermann/ad-away/issues/new) and ask for inclusion!
 
-## Redirection lists
+## Censorship Circumvention
+
+**WARNING: Only use these sources if you can't reach Google, Facebook, etc. from your country, because of DNS blocking!**
 
 **If you want to use redirection rules from these Hosts Sources you have to explicitly allow redirection rules in the preferences of AdAway!**
 
