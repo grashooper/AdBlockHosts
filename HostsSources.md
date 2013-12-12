@@ -28,7 +28,7 @@ The following host sources are default in AdAway and thus supported by the autho
 
 ## What are the criteria to make a hosts source default in AdAway?
 
-* They should only block Advertisments or Analytic Providers (for example http://sysctl.org/cameleon/hosts also blocks "shock sites", thus it is not included in AdAway)
+* They should only block advertisement or analytic providers (for example http://sysctl.org/cameleon/hosts also blocks "shock sites", thus it is not included in AdAway)
 * Hosts sources are potential security issues. The corresponding website of the hosts source should look "legit"
 * The hosts sources have to be available directly as plain text. AdAway can not use zipped sources
 * Malware blocking hosts sources are not included, because they would add too many entries
