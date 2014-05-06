@@ -5,6 +5,11 @@ Some applications need to connect to specific hostnames, that normally provide a
 
   * ``*s0.2mdn.net*`` (videos?)
 
+## CBC Sports, Olympics, News, etc.
+
+  * ``s0.2mdn.net``
+  * ``livepassdl.conviva.com``
+
 ## Asphalt 8
 
   * ``*gameloft*``
@@ -25,7 +30,7 @@ Some applications need to connect to specific hostnames, that normally provide a
 
 ## Medscape
 
-  * ``*.medscape.com``
+  * ``bi.medscape.com``
 
 ## nbcnews.com
 
