@@ -5,7 +5,7 @@ Some applications need to connect to specific hostnames, that normally provide a
 
   * ``*s0.2mdn.net*`` (videos?)
 
-## CBC Sports, Olympics, News, etc.
+## CBC Sports, Olympics, News, etc. (Also web streaming video)
 
   * ``s0.2mdn.net``
   * ``livepassdl.conviva.com``
