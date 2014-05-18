@@ -42,8 +42,6 @@ If your hosts source complies with these requirements, open a [new Issue](https:
 
 **If you want to use redirection rules from these Hosts Sources you have to explicitly allow redirection rules in the preferences of AdAway!**
 
-Chinese hosts file to workaround blocked domains, Contains many redirection rules, also a blocklist:
-
 | URL     | SSL     | Description  | License |
 | ------- | ------- | ------------ | ------- |
 | https://smarthosts.googlecode.com/svn/trunk/mobile_devices/hosts | Y |  | Unknown |
