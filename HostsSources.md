@@ -4,7 +4,7 @@ The following host sources are default in AdAway and thus supported by the autho
 
 | URL     | SSL     | Description  | License |
 | ------- | ------- | ------------ | ------- |
-| http://adaway.org/hosts.txt | Y (own cert) | Special hosts file for AdAway containing mobile ad provider | CC Attribution 3.0 |
+| https://adaway.org/hosts.txt | Y | Special hosts file for AdAway containing mobile ad provider | CC Attribution 3.0 |
 | http://winhelp2002.mvps.org/hosts.txt | N | MVPS HOSTS File | CC Attribution-NonCommercial-ShareAlike 3.0 |
 | http://hosts-file.net/ad_servers.asp | N | hpHosts | Allowed AdAway project to use it as default |
 | http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext | Y (with error) | Yoyos Hosts file | Unknown |
