@@ -25,6 +25,7 @@ The following host sources are default in AdAway and thus supported by the autho
 | https://jansal.googlecode.com/svn/trunk/adblock/hosts | Y | | Unknown |
 | https://sites.google.com/site/logroid/files/hosts.txt?attredirects=0 | Y | Japanese blocklist | Unknown |
 | http://optimate.dl.sourceforge.net/project/adzhosts/HOSTS.txt | N | http://sourceforge.net/projects/adzhosts/ | Unknown |
+| http://hosts.eladkarako.com/hosts.txt | N |  | Unknown |
 
 ## What are the criteria to make a hosts source default in AdAway?
 
