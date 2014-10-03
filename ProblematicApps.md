@@ -1,5 +1,10 @@
 Some applications need to connect to specific hostnames, that normally provide ads. To get these apps working some hostnames in AdAway need to be added to Whitelist (Your Lists -> Whitelist). After adding hostnames to your Whitelist apply AdAway again!
 
+## CamScanner
+
+  * ``d117.intsig.net``
+  * ``*intsig*``
+
 ## TechCrunch
 
   * ``o.aolcdn.com``
