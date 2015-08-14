@@ -60,3 +60,7 @@ Some applications need to connect to specific hostnames, that normally provide a
 
   * ``*msnbc*``
   * ``*nbcnews*``
+
+## Star Wars Commander
+
+  * ``connect.tapjoy.com``
