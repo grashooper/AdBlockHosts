@@ -2,7 +2,7 @@
 
 ## User information
 [[Hosts Sources|HostsSources]]  
-[[How to block new ads|BlockNewAds]]  
+[[Common Issues & Resolutions|Solutions]]  
 [[List of problematic applications|ProblematicApps]]
 
 ## Advanced Information
