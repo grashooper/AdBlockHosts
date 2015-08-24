@@ -20,6 +20,7 @@ Yes, LESS is MORE!
 
 ## AdAway is enabled but all Ads are getting through!
 *Things to check:*
+
 1. If you enabled Chrome's "Data Saver" option all requests in chrome will be going through a special proxy, making it impossible for AdAway to redirect anything. Set any data saver options in Chrome or ANY other browser to off or disabled.
 2. Check your mobile network APN settings for any proxy, the proxy itself could be allowing ads. Disable the proxy.
 3. If you are running on a custom ROM, check for Privacy Guard or any other built in Ad blockers. Remove them in the ROM settings and check /system/etc/ for any other hosts files.  Delete them and re-apply AdAway.
