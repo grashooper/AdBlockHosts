@@ -36,3 +36,6 @@ Remember that after making any change to the hosts file or the proxy settings, y
 ## Other things to do?
   * If you didn't succeed following the guide, you can also try to add a new issue and hope that somebody will help you: [Add issue](https://github.com/dschuermann/ad-away/issues)
   * Some apps have bundled the advertisements, use direct IP, or go through their own proxy. Thus you will never get rid of these ads by using AdAway.
+
+***
+_Thanks to Mike B. @XDA for these great issues and responses_
