@@ -64,3 +64,8 @@ Some applications need to connect to specific hostnames, that normally provide a
 ## Star Wars Commander
 
   * ``connect.tapjoy.com``
+
+## Sport1
+*https://play.google.com/store/apps/details?id=sport1.mobile.android.apps*
+
+  * ``ad.71i.de``
