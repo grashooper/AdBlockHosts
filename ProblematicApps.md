@@ -69,3 +69,8 @@ Some applications need to connect to specific hostnames, that normally provide a
 *https://play.google.com/store/apps/details?id=sport1.mobile.android.apps*
 
   * ``ad.71i.de``
+
+## Viggle
+*https://play.google.com/store/apps/details?id=com.functionx.viggle*
+
+  * ``data.flurry.com``
