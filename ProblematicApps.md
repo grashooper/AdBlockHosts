@@ -56,6 +56,10 @@ Some applications need to connect to specific hostnames, that normally provide a
 
   * ``bi.medscape.com``
 
+## realtor.com
+
+  * ``assets.adobedtm.com``
+
 ## nbcnews.com
 
   * ``*msnbc*``
