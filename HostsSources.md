@@ -27,7 +27,7 @@ The following host sources are default in AdAway and thus supported by the autho
 | http://optimate.dl.sourceforge.net/project/adzhosts/HOSTS.txt | N | http://sourceforge.net/projects/adzhosts/ | Unknown |
 | http://hosts.eladkarako.com/hosts.txt | N |  | Unknown |
 | https://github.com/StevenBlack/hosts/raw/master/hosts | Y | https://github.com/StevenBlack/hosts | Unknown |
-| https://github.com/yous/YousList/raw/master/hosts.txt | Y | https://github.com/yous/YousList | Unknown |
+| https://github.com/yous/YousList/raw/master/hosts.txt | Y | https://github.com/yous/YousList | Creative Commons Attribution 4.0 International License |
 
 ## What are the criteria to make a hosts source default in AdAway?
 
