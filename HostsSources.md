@@ -5,7 +5,7 @@ The following host sources are default in AdAway and thus supported by the autho
 | URL     | SSL     | Description  | License |
 | ------- | ------- | ------------ | ------- |
 | https://adaway.org/hosts.txt | Y | Special hosts file for AdAway containing mobile ad provider | CC Attribution 3.0 |
-| http://hosts-file.net/ad_servers.txt | Y | hpHosts | Allowed AdAway project to use it as default |
+| https://hosts-file.net/ad_servers.txt | Y | hpHosts | Allowed AdAway project to use it as default |
 | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext | Y | Yoyos Hosts file | [MCRAE GENERAL PUBLIC LICENSE (version 4.r53)](https://pgl.yoyo.org/license/) |
 
 
